@@ -1,0 +1,6 @@
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\bin\Debug\PadraoStrategy.exe.config
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\bin\Debug\PadraoStrategy.exe
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\bin\Debug\PadraoStrategy.pdb
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\obj\Debug\PadraoStrategy.csprojResolveAssemblyReference.cache
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\obj\Debug\PadraoStrategy.exe
+C:\Testes de Programas\PadraoStrategy\PadraoStrategy\obj\Debug\PadraoStrategy.pdb
