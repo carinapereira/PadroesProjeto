@@ -1,0 +1,10 @@
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.pdb
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Domain\obj\Debug\DDD.Domain.pdb

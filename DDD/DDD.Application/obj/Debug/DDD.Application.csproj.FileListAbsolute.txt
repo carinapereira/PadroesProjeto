@@ -1,0 +1,14 @@
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Application.dll
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Application.pdb
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Domain.dll
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Domain.pdb
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.dll
+C:\Users\carina\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.pdb
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Application.dll
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Application.pdb
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Domain.dll
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\bin\Debug\DDD.Domain.pdb
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.dll
+C:\Users\carina.pereira\OneDrive\Cursos\EduardoPires\DDD\DDD.Application\obj\Debug\DDD.Application.pdb
